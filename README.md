@@ -23,9 +23,9 @@ You only need a standard PyTorch environment. Typical requirements include:
 
 A minimal setup example:
 
-python -m venv segjointgene-env
-source segjointgene-env/bin/activate
-pip install torch numpy
+* `python -m venv segjointgene-env`
+* `source segjointgene-env/bin/activate`
+* `pip install torch numpy`
 
 No additional packages are required beyond what is used in the three files:
 
